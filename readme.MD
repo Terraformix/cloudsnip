@@ -2,6 +2,9 @@
 
 CloudSnip is a fully serverless URL shortening and management application built with modern web technologies and deployed on AWS. It leverages multiple AWS services for scalability, security, and efficiency while using Terraform for infrastructure automation.
 
+![demo](https://github.com/Terraformix/cloudsnip/blob/main/cloudsnip.gif)
+
+
 ## 🚀 Tech Stack
 - **Node.js** - Backend Lambda functions
 - **Vue.js** - Interactive frontend
